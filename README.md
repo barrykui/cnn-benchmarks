@@ -236,3 +236,8 @@ the model.
 
 <a id='resnet-eccv'>
 [4] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. "Identity Mappings in Deep Residual Networks." ECCV 2016.
+
+
+## TODO
+
+  - [x] test Tesla K80 on these data set.
